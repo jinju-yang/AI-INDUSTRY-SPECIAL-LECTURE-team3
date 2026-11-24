@@ -1,0 +1,10 @@
+kiwipiepy
+rank_bm25
+scikit-learn
+scipy
+numpy
+streamlit
+transformers
+accelerate
+torch
+openai

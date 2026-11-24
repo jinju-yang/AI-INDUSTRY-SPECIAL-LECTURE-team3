@@ -1,0 +1,12 @@
+# 학습된 모델·캐시
+out/
+__pycache__/
+*.pyc
+# 큰 외부 데이터 (코드가 GitHub에서 직접 받음)
+data/klue-nli-*
+# 개인 라벨링 작업 파일, 카톡 대화(이메일 포함)
+data/labels_*
+KakaoTalk_*
+# 임시 결과
+team_pred.json
+data/llm_pred.json
